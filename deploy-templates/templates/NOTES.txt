@@ -1,0 +1,1 @@
+1. Application java8-test1 has been successfully deployed!!
